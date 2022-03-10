@@ -1,0 +1,21 @@
+ print("""
+
+HH   HH                kk     
+HH   HH   aa aa   cccc kk  kk 
+HHHHHHH  aa aaa cc     kkkkk  
+HH   HH aa  aaa cc     kk kk  
+HH   HH  aaa aa  ccccc kk  kk
+
+TTTTTTT hh             
+  TTT   hh        eee  
+  TTT   hhhhhh  ee   e 
+  TTT   hh   hh eeeee  
+  TTT   hh   hh  eeeee 
+  
+PPPPPP  lll                        tt    !!! 
+PP   PP lll   aa aa nn nnn    eee  tt    !!! 
+PPPPPP  lll  aa aaa nnn  nn ee   e tttt  !!! 
+PP      lll aa  aaa nn   nn eeeee  tt        
+PP      lll  aaa aa nn   nn  eeeee  tttt !!! 
+
+""")
