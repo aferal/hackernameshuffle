@@ -1,0 +1,32 @@
+handles = ["my",
+ "best",
+ "dark", 
+"strong", 
+"varied",
+ "random", 
+"Nachos", 
+"upsidedown", 
+"totally normal", 
+"black", 
+"synth",
+ "wave",
+ "rogue", 
+"violent", 
+"silent",
+ "midnight"]
+
+
+
+>>> import random
+>>> def shuffle():
+	handles = []
+	i = 0
+	for i in range(0,15):
+		elements = input(": ")
+		handles.append(elements)
+		random.shuffle(handles)
+		return handles
+>>> random.shuffle(handles)
+>>> print("You're hacker name is ",handles[3], handles[9])
+
+#use random numbers for indexes
